@@ -1,4 +1,4 @@
-Generalised Data Structures Library :
+Project Name :- Generalised Data Structures Library
 
 Technology: C++ Programming
 
